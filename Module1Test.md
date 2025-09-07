@@ -7,14 +7,22 @@ I found the "Managing Your Profile README" article to be the most interesting, e
 
 ## Testing different styles:
 
-** bold text **
-__ this is also bold text __
-* * italics * *
-_ _ this is also italics _ _
-~~ strike through text ~~
-~ ~ strike through ~ ~
-** This is bold and _ italic text _ **
-*** all bold and italic ***
-<sub> subscript </sup>
-<sup> superscript </sup>
-<ins> underlined text <ins>
+**Bold text**
+
+__This is also bold text__
+
+*Italics* 
+
+_This is also italics_ 
+
+~~Strike through text~~
+
+**This is bold and _italic text_ inside**
+
+***All bold and italic***
+
+This is a <sub>subscript</sup>
+
+This is a <sup>superscript</sup>
+
+<ins>Underlined text<ins>
